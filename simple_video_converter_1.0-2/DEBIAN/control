@@ -1,9 +1,0 @@
-Package: simplevideoconverter
-Version: 1.0-2
-Section: base
-Priority: optional
-Architecture: i386
-Maintainer: No Maintainer
-Description: Converts mkv to mp4 or mp4 to mkv ffmpeg
- When you need convert a video file and don't want to 
- bash it all the time.
