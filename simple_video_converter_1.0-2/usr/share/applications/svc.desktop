@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Simple Video Converter
-Comment=MKV to MP4
-GenericName=FFMpeg Zenity App
-Exec=/usr/local/bin/svc/simplevideoconverter.sh
-Icon=/usr/local/bin/svc/svcicon.png
-Type=Application
-Keywords=video;
