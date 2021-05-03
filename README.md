@@ -1,5 +1,5 @@
 # SimpleBashVideoConverter
-A very simple zenity script that uses ffmpeg to convert mkv to mp4 
+A very simple zenity script that uses ffmpeg to convert mkv to mp4 or mp4 to mkv
 
 To install
 ```.sh
